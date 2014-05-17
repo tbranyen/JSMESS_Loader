@@ -1,0 +1,9 @@
+{
+    "name": "Atari 800",
+    "js_filename": "messatari400.js.gz",
+    "bios_filenames": ["a800.zip"],
+    "peripherals": ["flop1"],
+    "native_resolution": [336,225],
+    "extra_args": [""],
+    "driver":  "a800"
+}
